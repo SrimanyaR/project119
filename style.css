@@ -1,0 +1,23 @@
+body
+{
+  color: white;
+  background: rgb(107, 7, 112);
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+
+.heading
+{
+  font-size: 18px;
+  border-radius:10px;
+  letter-spacing: 10px;
+}
+
